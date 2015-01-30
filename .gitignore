@@ -1,0 +1,11 @@
+dist
+
+# OS X
+.DS_Store
+
+# Windows
+thumbs.db
+
+# node
+node_modules
+npm-debug.log
